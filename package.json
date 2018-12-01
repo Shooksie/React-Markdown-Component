@@ -1,0 +1,11 @@
+{
+  "name": "reactjs-markdown",
+  "version": "0.0.1",
+  "description": "this is a basic react markdown component it's very extensible so far and supports a wide variety, of patterns its also very easy to make it more extensible ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
